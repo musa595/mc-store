@@ -1,0 +1,19 @@
+{
+    "name": "survivalcraft-store",
+    "private": true,
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "start": "node server.js",
+        "build": "vite build"
+    },
+    "dependencies": {
+        "dotenv": "latest",
+        "express": "latest",
+        "rcon-client": "latest"
+    },
+    "devDependencies": {
+        "vite": "latest"
+    }
+}
