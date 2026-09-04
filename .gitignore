@@ -1,1 +1,8 @@
+# Ignore local environment variables
+.env
 
+# Ignore node dependencies
+node_modules/
+
+# Ignore system files
+.DS_Store
